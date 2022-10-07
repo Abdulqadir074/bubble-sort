@@ -21,7 +21,7 @@ class BubbleSort {
 				}
 	}
 
-	
+	/* A utility function to print array of size n */
 	void printArray(int arr[])
 	{
 		int n = arr.length;
